@@ -1,0 +1,26 @@
+/* Custom styles */
+
+
+html {
+	scroll-behavior: smooth;
+}
+
+.one-line {
+	white-space: nowrap;
+}
+
+
+.whatsapp-icon {
+	height: 1.8em;
+	position: relative;
+	top: -2px;
+}
+
+.try-icons {
+	height: 3rem !important;
+}
+
+#boton-cocina {
+	position: relative;
+	top: -15px;
+}
