@@ -24,3 +24,7 @@ html {
 	position: relative;
 	top: -15px;
 }
+
+.nolinkhover:hover {
+	cursor: default;
+}
