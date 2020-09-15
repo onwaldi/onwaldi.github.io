@@ -11,3 +11,9 @@ section.cz-carousel h2,
 section.cz-carousel p {
   color: #373f50 !important;
 }
+
+
+section h2 {
+	text-align: center;
+	width: 100%;
+}
