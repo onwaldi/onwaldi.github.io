@@ -2,10 +2,18 @@
  * Waldi Styles
  */
 
-/*
-header.fixed-top {
-  background-color: #ee1d27 !important;
-}*/
+/* Header */
+
+@media only screen and (min-width: 992px) {
+	.topnav-centered {
+	  float: none;
+	  position: absolute;
+	  top: 50%;
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	}
+}
+
 
 section.cz-carousel h2,
 section.cz-carousel p {
