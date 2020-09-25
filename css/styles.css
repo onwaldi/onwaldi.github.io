@@ -30,6 +30,17 @@ section h2 {
 	margin-top: 20px;
 }
 
+.progress-badge {
+	margin-bottom: 15px;
+	position: static !important;
+	width: 100%;
+}
+
+.progress-icon {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
 
 
 
